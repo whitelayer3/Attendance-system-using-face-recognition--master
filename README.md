@@ -23,13 +23,17 @@ pip install face_recognition
 pip install django
 
 * After installing the required packages, open your terminal and run the following command:
-
-
+  
 python manage.py runserver
-*If the process completes without errors, a link will be generated in the terminal. Open the provided link in your web browser and follow the instructions.
+* If the process completes without errors, a link will be generated in the terminal. Open the provided link in your web browser and follow the instructions.
 
+# Technology used
+* HTML,CSS is used for creating frontend 
+* Python Django is used as a backend technology
+* Python OpenCV is used for face recognition
 # Contact
 For any queries, feel free to contact us at projectgroup5cem@gmail.com.
+
 
 
 
