@@ -14,5 +14,22 @@ To use this project follow the step below
 * to start the recognition system or attendance system,click on the run scanner,please wait for a moment to activate your web cam
 * note that clear the attendance history before running the scanner.
 
+# Required Packages
+Install the following libraries:
+
+face_recognition
+
+pip install face_recognition
+pip install django
+
+* After installing the required packages, open your terminal and run the following command:
+
+
+python manage.py runserver
+*If the process completes without errors, a link will be generated in the terminal. Open the provided link in your web browser and follow the instructions.
+
+# Contact
+For any queries, feel free to contact us at projectgroup5cem@gmail.com.
+
 
 
